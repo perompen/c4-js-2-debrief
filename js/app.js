@@ -20,6 +20,7 @@ function randomExercises(userInput) {
         console.log(exercises[index]);
     }
 }
+
 randomExercises(4);
 
 // Arrow function
@@ -63,6 +64,7 @@ const GenBuzz = () => {
         }
     }
 }
+
 GenBuzz();
 
 // 3. E-Commerce Item list
